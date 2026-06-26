@@ -3,10 +3,10 @@
     'version': '19.0.1.0.0',
     'sequence': 60,
     'category': 'Inventory/Sales',
-    'author': 'IT WORKHOUSE',
-    'maintainer': 'IT WORKHOUSE',
-    'website': 'https://www.itworkhouse.co.uk',
-    'support': 'alex@itworkhouse.co.uk',
+    'author': 'FIZZY PROJECTS LTD',
+    'maintainer': 'https://github.com/litecactus/',
+    'website': 'https://www.fizzyprojects.com',
+    'support': 'alex@fizzyprojects.com',
     'summary': 'Pick exact lot/serial numbers on a sale order line and force the '
                'delivery to reserve them, using the native reservation engine.',
     'description': """
