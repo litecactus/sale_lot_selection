@@ -46,4 +46,4 @@ LGPL-3.
 
 ## Support
 
-FIZZY PROJECTS LTD &middot; alex@fizzyprojects.com &middot; https://www.fizzyprojects.com
+FIZZY PROJECTS LTD &middot; hello@fizzyprojects.com &middot; https://www.fizzyprojects.com
