@@ -46,4 +46,4 @@ LGPL-3.
 
 ## Support
 
-IT WORKHOUSE &middot; alex@itworkhouse.co.uk &middot; https://www.itworkhouse.co.uk
+FIZZY PROJECTS LTD &middot; alex@fizzyprojects.com &middot; https://www.fizzyprojects.com
